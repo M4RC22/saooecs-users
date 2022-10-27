@@ -1,0 +1,200 @@
+{
+    "users":[
+        {
+            "!-----GUIDE-----!":[
+                {
+                    "user-1": "Reserved SAO",
+                    "user-2": "Reserved Acadserv",
+                    "user-3": "Reserved Finance",
+                    "user-4": "Potential adviser",
+                    "users 5-8": "codeseekers members",
+                    "users 9-15": "dummy students"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "firstName": "Elna",
+            "middleName": "Brinkler",
+            "lastName": "Grahl",
+            "phoneNumber": "09711429918",
+            "userType": "Staff",
+            "email": "ebgrahl@apc.edu.ph",
+            "password": "password",
+            "departmentName": "Student Activities Office",
+            "departmentPosition": "Head"
+        },
+        {
+            "id": 2,
+            "firstName": "Raul",
+            "middleName": "Killeley",
+            "lastName": "Gallear",
+            "phoneNumber": "09383772579",
+            "userType": "Staff",
+            "email": "rkgallear@apc.edu.ph",
+            "password": "password",
+            "departmentName": "Academic Services",
+            "departmentPosition": "Head"
+        },
+        {
+            "id": 3,
+            "firstName": "Anny",
+            "middleName": "Travers",
+            "lastName": "Spiby",
+            "phoneNumber": "09084708998",
+            "userType": "Staff",
+            "email": "atspiby@apc.edu.ph",
+            "password": "password",
+            "departmentName": "Finance Office",
+            "departmentPosition": "Head"
+        },
+        {
+            "id": 4,
+            "firstName": "Jacquenette",
+            "middleName": "Carme",
+            "lastName": "MacCole",
+            "phoneNumber": "09921213121",
+            "userType": "Professor",
+            "email": "jcmaccole@apc.edu.ph",
+            "password": "password",
+            "departmentName": "School of Management",
+            "departmentPosition": "Professor"
+        },
+        {
+            "id": 5,
+            "firstName": "Aian Mark",
+            "middleName": "",
+            "lastName": "Antonio",
+            "phoneNumber": "09998831688",
+            "userType": "Student",
+            "email": "aoantonio@student.apc.edu.ph",
+            "password": "xtianpogi",
+            "departmentName": "",
+            "departmentPosition": ""
+        },
+        {
+            "id": 6,
+            "firstName": "Gabrielle",
+            "middleName": "",
+            "lastName": "Valbuena",
+            "phoneNumber": "09538081854",
+            "userType": "Student",
+            "email": "grvalbuena@student.apc.edu.ph",
+            "password": "xtianpogi",
+            "departmentName": "",
+            "departmentPosition": ""
+        },
+
+        {
+            "id": 7,
+            "firstName": "Jomari",
+            "middleName": "",
+            "lastName": "Sabinay",
+            "phoneNumber": "09966723613",
+            "userType": "Student",
+            "email": "jgsabinay@student.apc.edu.ph",
+            "password": "xtianpogi",
+            "departmentName": "",
+            "departmentPosition": ""
+        },
+        {
+            "id": 8,
+            "firstName": "Michael Justin",
+            "middleName": "",
+            "lastName": "Basco",
+            "phoneNumber": "09154059835",
+            "userType": "Student",
+            "email": "mrbasco@student.apc.edu.ph",
+            "password": "xtianpogi",
+            "departmentName": "",
+            "departmentPosition": ""
+        },
+        {
+            "id": 9,
+            "firstName": "Arlyn",
+            "middleName": "Ladds",
+            "lastName": "Lax",
+            "phoneNumber": "09617647930",
+            "userType": "Student",
+            "email": "allax@student.apc.edu.ph",
+            "password": "password",
+            "departmentName": "",
+            "departmentPosition": ""
+        },
+        {
+            "id": 10,
+            "firstName": "Marcela",
+            "middleName": "Pranger",
+            "lastName": "Loyte",
+            "phoneNumber": "09016432940",
+            "userType": "Student",
+            "email": "mployte@student.apc.edu.ph",
+            "password": "password",
+            "departmentName": "",
+            "departmentPosition": ""
+        },
+        {
+            "id": 11,
+            "firstName": "Ludvig",
+            "middleName": "McChruiter",
+            "lastName": "Bourton",
+            "phoneNumber": "09302740721",
+            "userType": "Student",
+            "email": "lmbourton@student.apc.edu.ph",
+            "password": "password",
+            "departmentName": "",
+            "departmentPosition": ""
+        },
+        {
+            "id": 12,
+            "firstName": "Demetris",
+            "middleName": "Warrillow",
+            "lastName": "Bosence",
+            "phoneNumber": "09957805267",
+            "userType": "Student",
+            "email": "dwbosence@student.apc.edu.ph",
+            "password": "password",
+            "departmentName": "",
+            "departmentPosition": ""
+        },
+        {
+            "id": 13,
+            "firstName": "Thain",
+            "middleName": "Deport",
+            "lastName": "Symcox",
+            "phoneNumber": "09642441203",
+            "userType": "Student",
+            "email": "tdsymcox@student.apc.edu.ph",
+            "password": "password",
+            "departmentName": "",
+            "departmentPosition": ""
+        },
+        {
+            "id": 14,
+            "firstName": "Steph",
+            "middleName": "Dell",
+            "lastName": "Curry",
+            "phoneNumber": "09698441203",
+            "userType": "Student",
+            "email": "sdcurry@student.apc.edu.ph",
+            "password": "password",
+            "departmentName": "",
+            "departmentPosition": ""
+        },
+        {
+            "id": 15,
+            "firstName": "Klay",
+            "middleName": "Pogi",
+            "lastName": "Thompson",
+            "phoneNumber": "09698991203",
+            "userType": "Student",
+            "email": "kpthompson@student.apc.edu.ph",
+            "password": "password",
+            "departmentName": "",
+            "departmentPosition": ""
+        }
+    ]
+}
+
+
+
